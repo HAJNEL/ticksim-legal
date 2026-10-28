@@ -1,0 +1,5 @@
+:root{--bg:#0b0e13;--fg:#e9edf2;--muted:#9aa4b2;--accent:#c6f135}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,Segoe UI,sans-serif;margin:0}
+main{max-width:720px;margin:0 auto;padding:40px 16px 80px}
+h1{font-size:28px;margin:0 0 4px}h2{font-size:18px;margin:28px 0 6px;color:var(--accent)}
+p,li{color:var(--fg)}.muted{color:var(--muted)}a{color:var(--accent)}
